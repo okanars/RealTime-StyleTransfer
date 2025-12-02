@@ -1,0 +1,61 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+.env
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Pytest
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data and model artifacts
+data/
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.model
+
+# Logs and runtime files
+logs/
+*.log
+*.pid
+
+# Databases
+*.sqlite3
+*.db
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage and reports
+htmlcov/
+.coverage
