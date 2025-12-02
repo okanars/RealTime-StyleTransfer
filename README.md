@@ -6,8 +6,6 @@
 
 > A lightweight, PyTorch-based implementation of Fast Neural Style Transfer, engineered to perform real-time artistic stylization on video streams and webcam feeds using resource-constrained hardware.
 
-![Style Transfer Demo](assets/demo.gif)
-*(Left: Input Feed | Right: Stylized Output) — add a GIF at `assets/demo.gif` or update the path.*
 
 ---
 
