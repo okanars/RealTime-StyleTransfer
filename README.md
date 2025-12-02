@@ -120,8 +120,3 @@ Content images sourced from Unsplash collections (Kaggle). Verify licenses befor
 - [ ] Export to ONNX for mobile/web deployment
 
 ---
-
-If you want, I can:
-- add the demo GIF to `assets/` and update the path,
-- or open a PR with this README replacement.
-
